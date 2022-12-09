@@ -21,7 +21,7 @@
 
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-           <code><img height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fj%2Fjavascript.png&imgrefurl=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fj%2Fjavascript.htm&tbnid=UeTQ2NKciPfaVM&vet=12ahUKEwjnsMjQ0uz7AhVig2MGHTrcAcIQMygEegUIARDmAQ..i&docid=kDJIpkRx3_tCHM&w=350&h=350&q=javascript&ved=2ahUKEwjnsMjQ0uz7AhVig2MGHTrcAcIQMygEegUIARDmAQ"></code>
+           <code><img height="20" src="C:\Users\shree krishna\Downloads\download.png"></code>
        
     </div>
 
