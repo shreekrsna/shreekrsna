@@ -24,8 +24,8 @@
        
      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
     <img height="20" src="https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png">
-         ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=shreekrsna&show_icons=true&theme=dark)
+         
     </div>
-
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=shreekrsna&show_icons=true&theme=dark)
 
 ⭐️ From [SHREE KRISHNA](https://github.com/shreekrsna)
