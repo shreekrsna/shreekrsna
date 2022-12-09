@@ -14,6 +14,9 @@
 
 
 - 📫 How to reach me: lookmekrish7@gmail.com
+-  How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](linkedin.com/in/shree-krishna-g-s-37516122a) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto: lookmekrish7@gmail.com)
+
 - 🌱 Languages and Tools: 
 
     <div>
