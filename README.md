@@ -3,7 +3,7 @@
 𝗜'𝗺 [SHREE KRISHNA G S](github.com/shreekrsna)！𝗜'𝗺 persuing  engineering degree👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 games 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:yaronhuang@foxmail.com)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krishna)
