@@ -1,8 +1,24 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [SHREE KRISHNA G S](github.com/shreekrsna)！𝗜'𝗺 persuing b.tech in cambridge institute of technology, 👨‍💻 w𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 web 3.0 𝗮𝗻𝗱 web development.
+𝗜'𝗺 [SHREEKRISHNA G S](github.com/shreekrsna)！## 👋 Hi, I'm Shree!
 
+I'm a passionate **Software Engineer**  who enjoys building applications and exploring new technologies.
 
+- 🔭 Currently working on **AI-powered applications and web projects**
+- 🌱 Exploring **Next.js, DevOps, Docker, Kubernetes, Golang, and AI**
+- 💻 Experienced with **React, Next.js, Node.js, Express, MongoDB, MySQL, Django, and Firebase**
+- 🤖 Interested in **AI agents, automation, and building practical solutions**
+- ⛓️ Built projects using **Ethereum, Solidity, MetaMask, and Web3**
+- 🚀 Always learning, building, and improving
+
+### 🛠️ Tech Stack
+**Frontend:** React • Next.js • Tailwind CSS • JavaScript  
+**Backend:** Node.js • Express • Django • Python  
+**Database:** MongoDB • MySQL • Firebase  
+**DevOps & Tools:** Docker • Kubernetes • Git • GitHub  
+**Other:** Ethereum • Solidity • Web3 • AI/LLMs
+
+📫 Feel free to explore my repositories and connect with me!
 
 
 
