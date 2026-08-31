@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [SHREEKRISHNA G S](github.com/shreekrsna)！## 👋 Hi, I'm Shree!
+👋 Hi, I'm Shree!
 
 I'm a passionate **Software Engineer**  who enjoys building applications and exploring new technologies.
 
