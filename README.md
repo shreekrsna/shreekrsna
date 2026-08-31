@@ -42,6 +42,6 @@ I'm a passionate **Software Engineer**  who enjoys building applications and exp
     <img height="20" src="https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png">
          
     </div>
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=shreekrsna&show_icons=true&theme=dark)
+
 
 ⭐️ From [SHREE KRISHNA](https://github.com/shreekrsna)
